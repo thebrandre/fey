@@ -1,0 +1,6 @@
+/.vs/
+/.vscode/
+/.idea/
+/out/
+/cmake-build-*/
+*.DotSettings.user

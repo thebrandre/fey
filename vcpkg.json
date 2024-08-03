@@ -1,0 +1,8 @@
+{
+  "name": "fey",
+  "version": "0.1",
+  "dependencies": [
+    "gtest",
+    "stdexec"
+  ]
+}
