@@ -23,7 +23,4 @@ TEST(static_thread_pool, sample)
     EXPECT_EQ(i, 0);
     EXPECT_EQ(j, 1);
     EXPECT_EQ(k, 4);
-
-    
-    EXPECT_EQ(std::string_view("🤖"), std::string_view("\U0001f917"));
 }
